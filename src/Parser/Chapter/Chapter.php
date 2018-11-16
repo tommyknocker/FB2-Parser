@@ -1,11 +1,11 @@
 <?php
 
-namespace Tizis\FB2\Parser\Chapter;
+namespace Tommyknocker\FB2\Parser\Chapter;
 
 use DiDom\Element;
-use Tizis\FB2\Helpers\DocumentFormatter;
-use Tizis\FB2\Model\Chapter as ChapterModel;
-use Tizis\FB2\Parser\Parser;
+use Tommyknocker\FB2\Helpers\DocumentFormatter;
+use Tommyknocker\FB2\Model\Chapter as ChapterModel;
+use Tommyknocker\FB2\Parser\Parser;
 
 /**
  * Class ChapterImages

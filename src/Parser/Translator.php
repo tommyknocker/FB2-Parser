@@ -1,9 +1,9 @@
 <?php
 
-namespace Tizis\FB2\Parser;
+namespace Tommyknocker\FB2\Parser;
 
 use DiDom\Element;
-use Tizis\FB2\Model\Translator as TranslatorModel;
+use Tommyknocker\FB2\Model\Translator as TranslatorModel;
 
 /**
  * Class Translator

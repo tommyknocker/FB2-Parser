@@ -1,11 +1,11 @@
 <?php
 
-namespace Tizis\FB2\Parser;
+namespace Tommyknocker\FB2\Parser;
 
 use DiDom\Document;
 use DiDom\Element;
-use Tizis\FB2\FB2AttributesManager;
-use Tizis\FB2\Model\IModel;
+use Tommyknocker\FB2\FB2AttributesManager;
+use Tommyknocker\FB2\Model\IModel;
 
 /**
  * Class Parser

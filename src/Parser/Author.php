@@ -1,9 +1,9 @@
 <?php
 
-namespace Tizis\FB2\Parser;
+namespace Tommyknocker\FB2\Parser;
 
 use DiDom\Element;
-use Tizis\FB2\Model\Author as AuthorModel;
+use Tommyknocker\FB2\Model\Author as AuthorModel;
 
 /**
  * Class Author

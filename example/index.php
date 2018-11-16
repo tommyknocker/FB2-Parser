@@ -2,7 +2,7 @@
 
 include '../vendor/autoload.php';
 
-use Tizis\FB2\FB2Controller;
+use Tommyknocker\FB2\FB2Controller;
 
 $imagesPath = $_SERVER['DOCUMENT_ROOT'].'/img/1';
 $file = file_get_contents('file - Copy.fb2');

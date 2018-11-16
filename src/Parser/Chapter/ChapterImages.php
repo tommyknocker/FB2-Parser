@@ -1,10 +1,10 @@
 <?php
 
-namespace Tizis\FB2\Parser\Chapter;
+namespace Tommyknocker\FB2\Parser\Chapter;
 
 use DiDom\Element;
 use Intervention\Image\ImageManagerStatic as Image;
-use Tizis\FB2\Parser\Parser;
+use Tommyknocker\FB2\Parser\Parser;
 
 /**
  * Class ChapterImages

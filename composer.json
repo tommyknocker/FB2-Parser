@@ -1,15 +1,21 @@
 {
-  "name": "tizis/fb2-parser",
+  "name": "tommyknocker/fb2-parser",
   "description": "Simple FB2 to HTML parser",
-  "version": "0.5.3",
+  "version": "0.0.1",
   "type": "library",
   "keywords": ["FB2Parser", "parser", "fb2", "html", "php"],
   "license": "MIT",
-  "homepage": "https://github.com/tizis/FB2-Parser",
+  "homepage": "https://github.com/tommyknocker/FB2-Parser",
   "authors": [
     {
       "name": "Epanchenko Roman",
       "email": "podstavat@gmail.com"
+    },
+    {
+      "name": "Vasiliy 'Tommyknocker' Ulin",
+      "email": "me@isfrom.space",
+      "homepage": "https://github.com/tommyknocker",
+      "role": "Developer"
     }
   ],
   "require": {
@@ -20,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Tizis\\FB2\\": "src/"
+      "Tommyknocker\\FB2\\": "src/"
     }
   },
   "require-dev": {

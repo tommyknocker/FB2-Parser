@@ -4,7 +4,7 @@
 FB2Parser is a PHP parser for fb2 books.
 
 ## Getting Started
-1. `composer require tizis/fb2-parser`
+1. `composer require tommyknocker/fb2-parser`
 2. See public accessors list 
 3. See example
 ## Features
@@ -33,6 +33,7 @@ FB2Parser is a PHP parser for fb2 books.
 | getTranslators() |  **return** array of Translator objects|
 | getInfo() |  **return** BookInfo object|
 | getChapters() |  **return** array of Chapters objects|
+| getCover() | **return** Book cover image|
 --------
 ### getAuthors()[$key]-> ...
 | Book | desc |
@@ -59,6 +60,9 @@ FB2Parser is a PHP parser for fb2 books.
 | getGenres() |  **return** array of genres of the book|
 | getKeywords() |  **return** keywords of the book|
 | getLang() |  **return** array of lang of the book|
+| getPublisher() |  **return** Publisher of the book|
+| getYear() |  **return** year when book was published|
+
 --------
 ### getChapters()[$key]-> ...
 | Book | desc |

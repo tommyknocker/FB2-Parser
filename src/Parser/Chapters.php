@@ -1,9 +1,9 @@
 <?php
 
-namespace Tizis\FB2\Parser;
+namespace Tommyknocker\FB2\Parser;
 
-use Tizis\FB2\Helpers\DocumentFormatter;
-use Tizis\FB2\Parser\Chapter\Chapter;
+use Tommyknocker\FB2\Helpers\DocumentFormatter;
+use Tommyknocker\FB2\Parser\Chapter\Chapter;
 
 /**
  * Class Chapters

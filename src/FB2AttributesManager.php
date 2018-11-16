@@ -1,6 +1,6 @@
 <?php
 
-namespace Tizis\FB2;
+namespace Tommyknocker\FB2;
 
 /**
  * Class FB2AttributesManager
