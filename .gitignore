@@ -1,3 +1,4 @@
 /vendor
 /example/*.fb2
 .idea
+composer.lock
